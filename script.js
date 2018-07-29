@@ -1,1 +1,2 @@
-alert("say hello world")
+alert("hello world")
+alert("bienvenue parmi nous")
